@@ -25,7 +25,7 @@ A responsive and modern To-Do List web application built using HTML, CSS, and Ja
 
 ## 📂 Folder Structure
 
-todo-app/
+to-do-app/
 │
 ├── index.html
 ├── style.css
@@ -42,11 +42,7 @@ todo-app/
 
 ## 🌐 Live Demo
 
-(Add your live demo link here)
-
-Example:
-
-https://tulasibobbara.github.io/todo-app/
+https://tulasibobbara.github.io/to-do-app/
 
 ---
 
@@ -55,4 +51,4 @@ https://tulasibobbara.github.io/todo-app/
 1. Download or clone the repository
 
 ```bash
-git clone https://github.com/tulasibobbara/todo-app.git
+git clone https://github.com/tulasibobbara/to-do-app.git
